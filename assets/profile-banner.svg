@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Kwapyen Kevin Kwap — Training Manager and Software Builder</title>
+  <desc id="desc">Dark terminal-inspired profile banner describing a builder of training, productivity, coaching, and team coordination systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101f"/>
+      <stop offset="0.55" stop-color="#0b1426"/>
+      <stop offset="1" stop-color="#071623"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#17304a" stroke-width="1" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="560" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="560" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="558" rx="19" fill="none" stroke="#20344d" stroke-width="2"/>
+
+  <circle cx="34" cy="30" r="5" fill="#fb7185"/>
+  <circle cx="54" cy="30" r="5" fill="#fbbf24"/>
+  <circle cx="74" cy="30" r="5" fill="#34d399"/>
+  <text x="103" y="35" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">kwapyen / profile.readme</text>
+  <line x1="24" y1="56" x2="1256" y2="56" stroke="#20344d"/>
+
+  <g transform="translate(70 108)">
+    <rect width="330" height="332" rx="18" fill="#0a1728" stroke="#1f3852"/>
+    <circle cx="165" cy="118" r="82" fill="#0d2132" stroke="url(#accent)" stroke-width="2"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M120 130 C120 83 210 83 210 130" stroke="#2dd4bf" stroke-width="4"/>
+      <rect x="111" y="125" width="18" height="48" rx="9" stroke="#38bdf8" stroke-width="4"/>
+      <rect x="201" y="125" width="18" height="48" rx="9" stroke="#38bdf8" stroke-width="4"/>
+      <path d="M210 173 C210 194 187 201 169 201" stroke="#38bdf8" stroke-width="4"/>
+      <circle cx="163" cy="201" r="7" fill="#2dd4bf" stroke="none"/>
+      <path d="M165 68 V45 M165 45 L153 56 M165 45 L177 56" stroke="#fbbf24" stroke-width="3"/>
+      <path d="M104 86 L82 72 M82 72 L86 88 M82 72 L98 69" stroke="#2dd4bf" stroke-width="3"/>
+      <path d="M226 86 L248 72 M248 72 L244 88 M248 72 L232 69" stroke="#38bdf8" stroke-width="3"/>
+    </g>
+    <text x="165" y="242" text-anchor="middle" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">PEOPLE × SYSTEMS</text>
+    <text x="165" y="270" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">train • coach • coordinate</text>
+    <line x1="48" y1="297" x2="282" y2="297" stroke="#1f3852"/>
+    <text x="165" y="324" text-anchor="middle" fill="#2dd4bf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">BUILDING TOOLS FOR BETTER TEAMS</text>
+  </g>
+
+  <line x1="440" y1="90" x2="440" y2="472" stroke="#20344d"/>
+
+  <g transform="translate(492 100)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="0" y="24" fill="#2dd4bf" font-size="13">PROFILE /</text>
+    <text x="0" y="66" fill="#f8fafc" font-size="32" font-weight="700">KWAPYEN KEVIN KWAP</text>
+    <text x="0" y="98" fill="#94a3b8" font-size="17">Training Manager × Software Builder</text>
+
+    <line x1="0" y1="128" x2="700" y2="128" stroke="#20344d"/>
+
+    <text x="0" y="166" fill="#fbbf24" font-size="13">FOCUS</text>
+    <text x="132" y="166" fill="#cbd5e1" font-size="14">Training • Productivity • Team Coordination</text>
+
+    <text x="0" y="202" fill="#fbbf24" font-size="13">MISSION</text>
+    <text x="132" y="202" fill="#cbd5e1" font-size="14">Help people learn, work, and improve</text>
+
+    <text x="0" y="238" fill="#fbbf24" font-size="13">LANGUAGES</text>
+    <text x="132" y="238" fill="#cbd5e1" font-size="14">TypeScript • JavaScript • Python • SQL</text>
+
+    <text x="0" y="274" fill="#fbbf24" font-size="13">SYSTEMS</text>
+    <text x="132" y="274" fill="#cbd5e1" font-size="14">Next.js • Node.js • Django • Streamlit</text>
+
+    <text x="0" y="310" fill="#fbbf24" font-size="13">DATA</text>
+    <text x="132" y="310" fill="#cbd5e1" font-size="14">PostgreSQL • APIs • Analytics • AI</text>
+
+    <line x1="0" y1="342" x2="700" y2="342" stroke="#20344d"/>
+
+    <text x="0" y="380" fill="#38bdf8" font-size="13">CURRENTLY BUILDING</text>
+    <rect x="0" y="398" width="132" height="30" rx="15" fill="#102c31" stroke="#1c615e"/>
+    <text x="66" y="418" text-anchor="middle" fill="#5eead4" font-size="12">COACHLOOP</text>
+    <rect x="146" y="398" width="122" height="30" rx="15" fill="#102337" stroke="#1d5372"/>
+    <text x="207" y="418" text-anchor="middle" fill="#7dd3fc" font-size="12">WORKTRAIL</text>
+
+    <text x="0" y="466" fill="#64748b" font-size="12">Turning operational problems into useful software.</text>
+  </g>
+
+  <rect x="24" y="527" width="260" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)" opacity="0.9"/>
+</svg>
+
