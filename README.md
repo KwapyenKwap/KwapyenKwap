@@ -80,12 +80,6 @@ learning:  [System Design, AI Agents, Product Analytics]
 06  Improve through real feedback.
 ```
 
-## GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KwapyenKwap&show_icons=true&hide_border=true&bg_color=0b1120&title_color=2dd4bf&text_color=cbd5e1&icon_color=38bdf8" alt="KwapyenKwap GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwapyenKwap&layout=compact&hide_border=true&bg_color=0b1120&title_color=2dd4bf&text_color=cbd5e1" alt="KwapyenKwap most-used languages" />
-</div>
 
 ## Current Direction
 
