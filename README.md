@@ -36,7 +36,7 @@ Real team problem  →  Useful system  →  Measurable outcome  →  Better work
 ## Builder Profile
 
 ```yaml
-role: Training Manager × Software Builder
+role:   Team Lead x Training Manager × Software Builder
 focus:
   - Training and coaching systems
   - Productivity tools
