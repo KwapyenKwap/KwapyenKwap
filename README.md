@@ -29,9 +29,9 @@ Real team problem  →  Useful system  →  Measurable outcome  →  Better work
 
 | Product | Purpose | Status |
 | :--- | :--- | :---: |
-| **CoachLoop** | Structured coaching, measurable goals, follow-ups, and employee progress | `BUILDING` |
-| **WorkTrail** | A smart work diary that turns daily activities into polished shift reports | `PLANNED` |
-| **Team Coordination Tools** | Lightweight systems for handoffs, accountability, and manager visibility | `EXPLORING` |
+| **Base Control** | New design to allow managers to work with Google Sheets seamlessly; it assists with researching leads efficiently | `COMPLETED` |
+| **WorkTrail** | A smart work diary that turns daily activities into polished shift reports | `COMPLETED` |
+| **Team Coordination Tools** | Lightweight systems for handoffs, accountability, and manager visibility | `COMPLETED` |
 
 ## Builder Profile
 
